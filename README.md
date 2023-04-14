@@ -17,7 +17,7 @@
   📚 I’m currently focusing on Web 3.0
   <br>
 </p>
-<hr>
+<!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
   <img title="C++" height="25" src="images/cplusplus.svg"></code>
@@ -27,7 +27,7 @@
   <img title="React" height="25" src="images/react.svg">
   <img title="TailwindCSs" height="25" src="images/tailwindcss.png">
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
-</p>
+</p> -->
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
