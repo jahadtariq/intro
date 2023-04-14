@@ -30,7 +30,7 @@
 </p> -->
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
 
@@ -62,7 +62,7 @@
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
-</p>
+</p> -->
 
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
